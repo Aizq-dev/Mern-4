@@ -8,6 +8,7 @@ import {
     H1CardTitle,
     ImgCard,
   } from "../../ui/Main/CardStyled";
+  import { primary } from '../../ui/colors';
 const CardTitle = ({side}) => {
   return (
     <DivCard >
@@ -17,7 +18,7 @@ const CardTitle = ({side}) => {
             Disfruta de brownies saludables para darte un capricho sin romper la
             dieta.¡Pedido a domicilio o para recoger!
           </p>
-          <Button text={"Ver Catálogo"} />
+          <Button text={"Ver Catálogo"}  background={primary} />
 
           <p>⭐⭐⭐⭐⭐ | Fitness | Saludable</p>
           <blockquote>
