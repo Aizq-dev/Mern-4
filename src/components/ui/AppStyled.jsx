@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AppStyled = styled.div`
-    margin-left: -8px;
+    margin: 0px;
    
     width: 100%;
     height: 100%;
