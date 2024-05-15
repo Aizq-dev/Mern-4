@@ -8,6 +8,7 @@ export const DivCard = styled.div`
   align-items: center;
   padding: 0 20px;
   background-color: ${secundary};
+  width: 100%;
 `;
 export const DivCardText = styled.div`
   width: 50%;
