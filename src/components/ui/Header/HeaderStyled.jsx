@@ -8,7 +8,7 @@ export const HeaderWrapper = styled.header`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px;
+  padding: 10px 20px;
 `;
 export const LogoName = styled.div`
   display: flex;
