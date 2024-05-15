@@ -9,7 +9,7 @@ gap: 30px;
 padding-bottom: 40px;
 border-bottom: 1px solid;
 
-background-image: url("/public/patronfrutas2.jpg");
+background-image: url("patronfrutas2.jpg");
 
     
 `

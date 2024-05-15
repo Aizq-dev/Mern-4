@@ -6,9 +6,9 @@ const Footer = () => {
     <FooterStyled>
         <Link text={"Homepage"}/>
         <div>
-        <Link img={"/public/facebook.png"} alt={"Facebook"}/>
-        <Link img={"/public/instagram.png"} alt={"Instagram"}/>
-        <Link img={"/public/x.png"} alt={"Twitter"}/>        
+        <Link img={"facebook.png"} alt={"Facebook"}/>
+        <Link img={"instagram.png"} alt={"Instagram"}/>
+        <Link img={"x.png"} alt={"Twitter"}/>        
         </div>
         <RigthsStyled>@All rights reserved.</RigthsStyled>
 
