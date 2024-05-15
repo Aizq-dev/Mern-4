@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AppStyled = styled.div`
-    margin: 0px;
+    margin: 0 -8px;
     padding: 0 8px;
    
     width: 100%;
