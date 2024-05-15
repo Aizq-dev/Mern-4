@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import { mobile, tablet } from "../../styles/medias";
 export const Text = styled.p`
     font-size: 20px;
     color: ${props => props.color ? props.color : "black"};  
