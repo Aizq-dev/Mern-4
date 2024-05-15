@@ -17,10 +17,4 @@ export const LogoName = styled.div`
   align-items: center;
 `;
 
-export const H2 = styled.h2`
-    color: #fbfaf9f9;
-    font-weight: bold;
-`
-export const H3 = styled.h3`
-    font-weight: bold;
-`
+

@@ -1,7 +1,8 @@
 import React from 'react'
 import Button from '../Button'
 import { Logo } from './Logo'
-import { H2, H3, HeaderWrapper, LogoName } from '../ui/Header/HeaderStyled'
+import { HeaderWrapper, LogoName } from '../ui/Header/HeaderStyled'
+import {H2,H3} from '../ui/TextStyled'
 
 const Header = () => {
   return (

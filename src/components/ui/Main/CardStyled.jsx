@@ -9,6 +9,7 @@ export const DivCard = styled.div`
   padding: 0 20px;
   background-color: ${secundary};
   width: 100%;
+  gap: 10px;
 
 `;
 export const DivCardText = styled.div`
