@@ -7,7 +7,8 @@ export const FooterStyled = styled.footer`
     align-items: center;
     gap: 30px;
     height: 400px;
-    background-color: ${secundary}
+    background-color: ${secundary};
+    padding: 0 20px;
 
 `
 export const RigthsStyled = styled.span`

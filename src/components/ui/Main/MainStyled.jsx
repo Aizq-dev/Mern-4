@@ -8,6 +8,7 @@ align-items: center;
 gap: 30px;
 padding-bottom: 40px;
 border-bottom: 1px solid;
+padding: 0 20px;
 
 background-image: url("patronfrutas2.jpg");
 
