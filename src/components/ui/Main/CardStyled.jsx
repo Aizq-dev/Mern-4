@@ -46,10 +46,4 @@ export const ImgCardStyled = styled.img`
   width: 200px;}
 `;
 
-export const DivCardImg = ({side, children}) =>{
-return <DivCardImgStyled side={side}>{children}</DivCardImgStyled>
 
-}
-export const ImgCard = ({ src, alt, side }) => {
-  return <ImgCardStyled src={src} alt={alt} side={side}></ImgCardStyled>;
-};
